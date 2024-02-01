@@ -10,3 +10,4 @@ This repo does not contain any source code. It is just used to release files of 
 * [ServoESP32 v1.0.3](https://github.com/RoboticsBrno/ServoESP32/releases)
 * [Stepper v1.1.3](https://github.com/arduino-libraries/Stepper)
 * [Ultrasonic v3.0.0](https://github.com/ErickSimoes/Ultrasonic)
+* [Nokia5110 v1.0.0](https://github.com/adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library)
